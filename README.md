@@ -7,16 +7,16 @@
 
 ## 🚀 About Me  
 
-- 🎓 Graduated in Computer Science from the University of M'sila  
-- 💻 Full-stack web developer with **1+ year** of experience  
-- 🔥 Passionate about programming, web security, and optimizing performance  
-- 📚 Always learning and experimenting with new technologies  
-- 🌐 Check out my portfolio: [islamzaoui.top](https://islamzaoui.top)  
+- 🎓 Graduated from the University of M'sila with a Master's degree in Computer Science.
+- 💻 Backend-Focused Full-Stack Engineer with **3+ years** of experience.
+- 🔥 Passionate about programming, web security, and optimizing performance.
+- 📚 Always learning and experimenting with new technologies.
+- 🌐 Check out my portfolio: [islamzaoui.top](https://islamzaoui.top).
 
 ## 🛠️ Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,svelte,react,tauri,git,bun,cs,dotnet" alt="Technologies I use" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind,svelte,react,nodejs,bun,elysia,hono,git" alt="Technologies I use" />
 </p>
 
 ## 📬 Get in Touch  
