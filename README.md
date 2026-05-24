@@ -8,15 +8,15 @@
 ## 🚀 About Me  
 
 - 🎓 Graduated from the University of M'sila with a Master's degree in Computer Science.
-- 💻 Backend-Focused Full-Stack Engineer with **3+ years** of experience.
+- 💻 Software Engineer with **3+ years** of experience.
 - 🔥 Passionate about programming, web security, and optimizing performance.
 - 📚 Always learning and experimenting with new technologies.
-- 🌐 Check out my portfolio: [islamzaoui.top](https://islamzaoui.top).
+- 🌐 Check out my portfolio: [islamzaoui.top](https://www.islamzaoui.top).
 
 ## 🛠️ Technologies & Tools  
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind,svelte,react,nodejs,bun,elysia,hono,git" alt="Technologies I use" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind,svelte,react,nextjs,nodejs,bun,elysia,hono,git" alt="Technologies I use" />
 </p>
 
 ## 📬 Get in Touch  
